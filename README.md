@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-![Screenshot of UI](./screenshots/spotify-clone-preview.png) <!-- Add your actual screenshot in this path -->
+![Screenshot of UI] (./Spotify-Clone/spotify-clone.png)
 
 ---
 
