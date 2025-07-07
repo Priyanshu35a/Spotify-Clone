@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-![Screenshot of UI] (./Spotify-Clone/spotify-clone.png)
+![Screenshot of UI] (https://github.com/Priyanshu35a/Spotify-Clone/blob/main/spotify-clone.png)
 
 ---
 
